@@ -15,5 +15,24 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/Employee_Tracker_CMS.git
+   git clone https://github.com/Joelogical/Employee_Tracker_CMS.git
    cd Employee_Tracker_CMS
+   ```
+
+2. **Navigate to the Project Directory**:
+
+   ```sh 
+   cd C:/navigate/to/your/local/directory
+   ```
+
+3. **Run the application**:
+
+   ```sh
+   node index.js
+   ```
+
+## Demo Video
+
+   ```sh
+   https://drive.google.com/file/d/1rwlFjuu_RwBMBdL_xS2CmJOSLNAJIojA/view?usp=sharing
+   ```
